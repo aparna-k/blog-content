@@ -1,7 +1,6 @@
 ---
 title: "PCA on MNIST using SKLearn - PCA Part 3/3"
 date: 2017-03-12T17:32:42+05:30
-draft: true
 ---
 
 To understand basics of PCA, refer to my previous post [here]({{< ref "PCA.md" >}})

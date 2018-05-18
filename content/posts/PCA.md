@@ -1,7 +1,6 @@
 ---
 title: "Principal Components Analysis - PCA Part 2/3"
 date: 2017-03-11T19:59:42+05:30
-draft: true
 ---
 
 ## What is PCA?
@@ -80,6 +79,10 @@ Let **X<sub>raw</sub>** be the *n×p* data matrix with *n* rows (data points) an
 
 Let **V** be the *p×k* matrix of some **K** eigenvectors that we want to use; these would most often be the **K** eigenvectors with the largest eigenvalues. Then the *n×k* matrix of PCA projections ("scores"
 will be simply given by **Z=XV**.
+
+The reconstruction of the original data from Z is given by
+
+X̂raw = ZVT + μ
 
 ## Advice for applying PCA
 

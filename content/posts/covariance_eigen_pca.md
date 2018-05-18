@@ -1,7 +1,6 @@
 ---
 title: "Covariance, Eigen Vectors and Principal Components - PCA Part 1/3"
 date: 2017-03-10T19:59:42+05:30
-draft: true
 ---
 
 ## Covariance matrix:
