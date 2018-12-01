@@ -1,13 +1,11 @@
 baseURL = "http://aparna-k.com/"
 languageCode = "en-us"
 title = "Datascope"
-theme = "hyde-hyde"
+theme = "ananke"
 [params]
   favicon= 'favicon.ico'
   description= "Looking through a Datascope"
   author= "Aparna Korattyswaroopam"
   copyright= "2017"
-[params.social]
-  github= 'aparna-k'
-  linkedin= 'aparnakorattyswaroopam'
-  twitter=  '@Aparna__K'
+  background_color_class = "bg-black"
+  featured_image = "/images/custom_hero.png"
