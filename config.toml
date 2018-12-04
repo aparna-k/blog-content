@@ -1,10 +1,10 @@
-baseURL = "http://aparna-k.com/"
+baseURL = "https://aparna-k.com/"
 languageCode = "en-us"
 title = "Datascope"
-theme = "ananke"
+theme = "hyde-hyde"
 [params]
   favicon= 'favicon.ico'
-  description= "Looking through a Datascope"
+  description= "Prediction is risky, especially when it involves the future. - Niels Bohr"
   author= "Aparna Korattyswaroopam"
   copyright= "2017"
   background_color_class = "bg-black"
