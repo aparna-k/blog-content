@@ -8,6 +8,5 @@ theme = "hyde-hyde"
   author= "Aparna Korattyswaroopam"
   copyright= "2017"
   background_color_class = "bg-black"
-  featured_image = "/images/custom_hero.png"
 [params.social]
     linkedin = "aparnakorattyswaroopam"
