@@ -1,5 +1,5 @@
 ---
-title: "Maximum Entropy Model - Intuition (Part 1/2)"
+title: "Maximum Entropy Model - Intuition (Part 1/3)"
 date: 2018-12-04T19:02:00+05:30
 ---
 
