@@ -92,7 +92,7 @@ Combining (1), (2) and (3)
 
 we write our _constraint equation_ as 
 
-$\sum_{x,y}p̃(x)p(y|x)f(y,x) = \sum_{x,y}p̃(x)p(y|x)f(y,x)$
+$ \sum_{x,y} p̃(x)p(y|x)f(y,x) = $ $ \sum p̃(x)p(y|x)f(y,x)$
 
 **The Maxent Principle**
 
@@ -120,7 +120,8 @@ Subject to the following constraints:
 
 1. $p(y|x) \ge 0\ for\ all\  x,y $
 2. $\sum_{y}p(y|x) = 1\ for\ all\ x$
-3. $\sum_{x,y}p̃(x)p(y|x)f(y,x) = \sum_{x,y}p̃(x)p(y|x)f(y,x)$
+3. $ \sum_{x,y} p̃(x)p(y|x)f(y,x) = $ $ \sum p̃(x)p(y|x)f(y,x)$
+
 
 This [constrained optimization](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction) problem is solved using the Lagrangian
 
